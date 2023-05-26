@@ -10,6 +10,6 @@ public class PruebaController{
 
     @GetMapping
     public String helloWorld(){
-        return "Hello World. probando CI/CD automaticos. CON TEST";
+        return "Hello World. probando CI/CD automaticos. TEST";
     }
 }
